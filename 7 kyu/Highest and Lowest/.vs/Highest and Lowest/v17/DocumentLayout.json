@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git\\CodeWars\\7 kyu\\Highest and Lowest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91AB3A7A-5543-4B83-AB79-8C83C8F20CC7}|Highest and Lowest\\Highest and Lowest.csproj|d:\\git\\codewars\\7 kyu\\highest and lowest\\highest and lowest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AB3A7A-5543-4B83-AB79-8C83C8F20CC7}|Highest and Lowest\\Highest and Lowest.csproj|solutionrelative:highest and lowest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git\\CodeWars\\7 kyu\\Highest and Lowest\\Highest and Lowest\\Program.cs",
+              "RelativeDocumentMoniker": "Highest and Lowest\\Program.cs",
+              "ToolTip": "D:\\Git\\CodeWars\\7 kyu\\Highest and Lowest\\Highest and Lowest\\Program.cs",
+              "RelativeToolTip": "Highest and Lowest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:05:15.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

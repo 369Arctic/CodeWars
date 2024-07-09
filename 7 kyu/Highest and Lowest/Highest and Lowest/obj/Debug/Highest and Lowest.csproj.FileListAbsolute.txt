@@ -1,0 +1,7 @@
+D:\Git\CodeWars\7 kyu\Highest and Lowest\Highest and Lowest\obj\Debug\Highest and Lowest.csproj.AssemblyReference.cache
+D:\Git\CodeWars\7 kyu\Highest and Lowest\Highest and Lowest\obj\Debug\Highest and Lowest.csproj.CoreCompileInputs.cache
+D:\Git\CodeWars\7 kyu\Highest and Lowest\Highest and Lowest\bin\Debug\Highest and Lowest.exe.config
+D:\Git\CodeWars\7 kyu\Highest and Lowest\Highest and Lowest\bin\Debug\Highest and Lowest.exe
+D:\Git\CodeWars\7 kyu\Highest and Lowest\Highest and Lowest\bin\Debug\Highest and Lowest.pdb
+D:\Git\CodeWars\7 kyu\Highest and Lowest\Highest and Lowest\obj\Debug\Highest and Lowest.exe
+D:\Git\CodeWars\7 kyu\Highest and Lowest\Highest and Lowest\obj\Debug\Highest and Lowest.pdb

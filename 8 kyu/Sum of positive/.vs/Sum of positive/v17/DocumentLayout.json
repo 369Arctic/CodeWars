@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Sum of positive\\",
+  "WorkspaceRootPath": "D:\\Git\\CodeWars\\8 kyu\\Sum of positive\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84FAD91A-9FAC-4E9E-A6A9-76C5009D7A1C}|Sum of positive\\Sum of positive.csproj|d:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\sum of positive\\sum of positive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84FAD91A-9FAC-4E9E-A6A9-76C5009D7A1C}|Sum of positive\\Sum of positive.csproj|d:\\git\\codewars\\8 kyu\\sum of positive\\sum of positive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84FAD91A-9FAC-4E9E-A6A9-76C5009D7A1C}|Sum of positive\\Sum of positive.csproj|solutionrelative:sum of positive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Sum of positive\\Sum of positive\\Program.cs",
+              "DocumentMoniker": "D:\\Git\\CodeWars\\8 kyu\\Sum of positive\\Sum of positive\\Program.cs",
               "RelativeDocumentMoniker": "Sum of positive\\Program.cs",
-              "ToolTip": "D:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\Sum of positive\\Sum of positive\\Program.cs",
+              "ToolTip": "D:\\Git\\CodeWars\\8 kyu\\Sum of positive\\Sum of positive\\Program.cs",
               "RelativeToolTip": "Sum of positive\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T09:05:49.53Z",
               "EditorCaption": ""

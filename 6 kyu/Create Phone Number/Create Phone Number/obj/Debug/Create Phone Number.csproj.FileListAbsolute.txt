@@ -1,0 +1,7 @@
+D:\Git\CodeWars\6 kyu\Create Phone Number\Create Phone Number\bin\Debug\Create Phone Number.exe.config
+D:\Git\CodeWars\6 kyu\Create Phone Number\Create Phone Number\bin\Debug\Create Phone Number.exe
+D:\Git\CodeWars\6 kyu\Create Phone Number\Create Phone Number\bin\Debug\Create Phone Number.pdb
+D:\Git\CodeWars\6 kyu\Create Phone Number\Create Phone Number\obj\Debug\Create Phone Number.csproj.AssemblyReference.cache
+D:\Git\CodeWars\6 kyu\Create Phone Number\Create Phone Number\obj\Debug\Create Phone Number.csproj.CoreCompileInputs.cache
+D:\Git\CodeWars\6 kyu\Create Phone Number\Create Phone Number\obj\Debug\Create Phone Number.exe
+D:\Git\CodeWars\6 kyu\Create Phone Number\Create Phone Number\obj\Debug\Create Phone Number.pdb

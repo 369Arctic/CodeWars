@@ -1,0 +1,7 @@
+D:\Git\CodeWars\8 kyu\Sum of positive\Sum of positive\obj\Debug\Sum of positive.csproj.AssemblyReference.cache
+D:\Git\CodeWars\8 kyu\Sum of positive\Sum of positive\obj\Debug\Sum of positive.csproj.CoreCompileInputs.cache
+D:\Git\CodeWars\8 kyu\Sum of positive\Sum of positive\bin\Debug\Sum of positive.exe.config
+D:\Git\CodeWars\8 kyu\Sum of positive\Sum of positive\bin\Debug\Sum of positive.exe
+D:\Git\CodeWars\8 kyu\Sum of positive\Sum of positive\bin\Debug\Sum of positive.pdb
+D:\Git\CodeWars\8 kyu\Sum of positive\Sum of positive\obj\Debug\Sum of positive.exe
+D:\Git\CodeWars\8 kyu\Sum of positive\Sum of positive\obj\Debug\Sum of positive.pdb
