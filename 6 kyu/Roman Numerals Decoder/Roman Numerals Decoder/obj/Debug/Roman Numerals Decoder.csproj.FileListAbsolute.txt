@@ -1,0 +1,7 @@
+D:\Git\CodeWars\6 kyu\Roman Numerals Decoder\Roman Numerals Decoder\bin\Debug\Roman Numerals Decoder.exe.config
+D:\Git\CodeWars\6 kyu\Roman Numerals Decoder\Roman Numerals Decoder\bin\Debug\Roman Numerals Decoder.exe
+D:\Git\CodeWars\6 kyu\Roman Numerals Decoder\Roman Numerals Decoder\bin\Debug\Roman Numerals Decoder.pdb
+D:\Git\CodeWars\6 kyu\Roman Numerals Decoder\Roman Numerals Decoder\obj\Debug\Roman Numerals Decoder.csproj.AssemblyReference.cache
+D:\Git\CodeWars\6 kyu\Roman Numerals Decoder\Roman Numerals Decoder\obj\Debug\Roman Numerals Decoder.csproj.CoreCompileInputs.cache
+D:\Git\CodeWars\6 kyu\Roman Numerals Decoder\Roman Numerals Decoder\obj\Debug\Roman Numerals Decoder.exe
+D:\Git\CodeWars\6 kyu\Roman Numerals Decoder\Roman Numerals Decoder\obj\Debug\Roman Numerals Decoder.pdb
