@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Replace With Alphabet Position", "Replace With Alphabet Position\Replace With Alphabet Position.csproj", "{C817C2BC-4F4F-45EE-875C-B828C9699B62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C817C2BC-4F4F-45EE-875C-B828C9699B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C817C2BC-4F4F-45EE-875C-B828C9699B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C817C2BC-4F4F-45EE-875C-B828C9699B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C817C2BC-4F4F-45EE-875C-B828C9699B62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3179DF6-64ED-4C40-9382-2A0342F204EE}
+	EndGlobalSection
+EndGlobal

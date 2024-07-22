@@ -1,0 +1,15 @@
+D:\Git\CodeWars\6 kyu\Counting Duplicates\Counting Duplicates\bin\Debug\net8.0\Counting Duplicates.exe
+D:\Git\CodeWars\6 kyu\Counting Duplicates\Counting Duplicates\bin\Debug\net8.0\Counting Duplicates.deps.json
+D:\Git\CodeWars\6 kyu\Counting Duplicates\Counting Duplicates\bin\Debug\net8.0\Counting Duplicates.runtimeconfig.json
+D:\Git\CodeWars\6 kyu\Counting Duplicates\Counting Duplicates\bin\Debug\net8.0\Counting Duplicates.dll
+D:\Git\CodeWars\6 kyu\Counting Duplicates\Counting Duplicates\bin\Debug\net8.0\Counting Duplicates.pdb
+D:\Git\CodeWars\6 kyu\Counting Duplicates\Counting Duplicates\obj\Debug\net8.0\Counting Duplicates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\CodeWars\6 kyu\Counting Duplicates\Counting Duplicates\obj\Debug\net8.0\Counting Duplicates.AssemblyInfoInputs.cache
+D:\Git\CodeWars\6 kyu\Counting Duplicates\Counting Duplicates\obj\Debug\net8.0\Counting Duplicates.AssemblyInfo.cs
+D:\Git\CodeWars\6 kyu\Counting Duplicates\Counting Duplicates\obj\Debug\net8.0\Counting Duplicates.csproj.CoreCompileInputs.cache
+D:\Git\CodeWars\6 kyu\Counting Duplicates\Counting Duplicates\obj\Debug\net8.0\Counting Duplicates.sourcelink.json
+D:\Git\CodeWars\6 kyu\Counting Duplicates\Counting Duplicates\obj\Debug\net8.0\Counting Duplicates.dll
+D:\Git\CodeWars\6 kyu\Counting Duplicates\Counting Duplicates\obj\Debug\net8.0\refint\Counting Duplicates.dll
+D:\Git\CodeWars\6 kyu\Counting Duplicates\Counting Duplicates\obj\Debug\net8.0\Counting Duplicates.pdb
+D:\Git\CodeWars\6 kyu\Counting Duplicates\Counting Duplicates\obj\Debug\net8.0\Counting Duplicates.genruntimeconfig.cache
+D:\Git\CodeWars\6 kyu\Counting Duplicates\Counting Duplicates\obj\Debug\net8.0\ref\Counting Duplicates.dll

@@ -1,0 +1,15 @@
+D:\Git\CodeWars\6 kyu\Replace With Alphabet Position\Replace With Alphabet Position\bin\Debug\net8.0\Replace With Alphabet Position.exe
+D:\Git\CodeWars\6 kyu\Replace With Alphabet Position\Replace With Alphabet Position\bin\Debug\net8.0\Replace With Alphabet Position.deps.json
+D:\Git\CodeWars\6 kyu\Replace With Alphabet Position\Replace With Alphabet Position\bin\Debug\net8.0\Replace With Alphabet Position.runtimeconfig.json
+D:\Git\CodeWars\6 kyu\Replace With Alphabet Position\Replace With Alphabet Position\bin\Debug\net8.0\Replace With Alphabet Position.dll
+D:\Git\CodeWars\6 kyu\Replace With Alphabet Position\Replace With Alphabet Position\bin\Debug\net8.0\Replace With Alphabet Position.pdb
+D:\Git\CodeWars\6 kyu\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net8.0\Replace With Alphabet Position.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\CodeWars\6 kyu\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net8.0\Replace With Alphabet Position.AssemblyInfoInputs.cache
+D:\Git\CodeWars\6 kyu\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net8.0\Replace With Alphabet Position.AssemblyInfo.cs
+D:\Git\CodeWars\6 kyu\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net8.0\Replace With Alphabet Position.csproj.CoreCompileInputs.cache
+D:\Git\CodeWars\6 kyu\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net8.0\Replace With Alphabet Position.sourcelink.json
+D:\Git\CodeWars\6 kyu\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net8.0\Replace With Alphabet Position.dll
+D:\Git\CodeWars\6 kyu\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net8.0\refint\Replace With Alphabet Position.dll
+D:\Git\CodeWars\6 kyu\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net8.0\Replace With Alphabet Position.pdb
+D:\Git\CodeWars\6 kyu\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net8.0\Replace With Alphabet Position.genruntimeconfig.cache
+D:\Git\CodeWars\6 kyu\Replace With Alphabet Position\Replace With Alphabet Position\obj\Debug\net8.0\ref\Replace With Alphabet Position.dll

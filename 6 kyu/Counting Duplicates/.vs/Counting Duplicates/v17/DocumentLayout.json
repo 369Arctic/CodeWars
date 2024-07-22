@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git\\CodeWars\\6 kyu\\Counting Duplicates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E475904-88F3-448D-81DB-B102215F28A8}|Counting Duplicates\\Counting Duplicates.csproj|d:\\git\\codewars\\6 kyu\\counting duplicates\\counting duplicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E475904-88F3-448D-81DB-B102215F28A8}|Counting Duplicates\\Counting Duplicates.csproj|solutionrelative:counting duplicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git\\CodeWars\\6 kyu\\Counting Duplicates\\Counting Duplicates\\Program.cs",
+              "RelativeDocumentMoniker": "Counting Duplicates\\Program.cs",
+              "ToolTip": "D:\\Git\\CodeWars\\6 kyu\\Counting Duplicates\\Counting Duplicates\\Program.cs",
+              "RelativeToolTip": "Counting Duplicates\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:02:37.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
