@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Persistence Bugger")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Unique In Order")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c5faab8f3dead287a5949da808aeb182521b1da")]
-[assembly: System.Reflection.AssemblyProductAttribute("Persistence Bugger")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Persistence Bugger")]
+[assembly: System.Reflection.AssemblyProductAttribute("Unique In Order")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Unique In Order")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
