@@ -1,0 +1,15 @@
+D:\Git\CodeWars\6 kyu\Split Strings\Split Strings\bin\Debug\net8.0\Split Strings.exe
+D:\Git\CodeWars\6 kyu\Split Strings\Split Strings\bin\Debug\net8.0\Split Strings.deps.json
+D:\Git\CodeWars\6 kyu\Split Strings\Split Strings\bin\Debug\net8.0\Split Strings.runtimeconfig.json
+D:\Git\CodeWars\6 kyu\Split Strings\Split Strings\bin\Debug\net8.0\Split Strings.dll
+D:\Git\CodeWars\6 kyu\Split Strings\Split Strings\bin\Debug\net8.0\Split Strings.pdb
+D:\Git\CodeWars\6 kyu\Split Strings\Split Strings\obj\Debug\net8.0\Split Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\CodeWars\6 kyu\Split Strings\Split Strings\obj\Debug\net8.0\Split Strings.AssemblyInfoInputs.cache
+D:\Git\CodeWars\6 kyu\Split Strings\Split Strings\obj\Debug\net8.0\Split Strings.AssemblyInfo.cs
+D:\Git\CodeWars\6 kyu\Split Strings\Split Strings\obj\Debug\net8.0\Split Strings.csproj.CoreCompileInputs.cache
+D:\Git\CodeWars\6 kyu\Split Strings\Split Strings\obj\Debug\net8.0\Split Strings.sourcelink.json
+D:\Git\CodeWars\6 kyu\Split Strings\Split Strings\obj\Debug\net8.0\Split Strings.dll
+D:\Git\CodeWars\6 kyu\Split Strings\Split Strings\obj\Debug\net8.0\refint\Split Strings.dll
+D:\Git\CodeWars\6 kyu\Split Strings\Split Strings\obj\Debug\net8.0\Split Strings.pdb
+D:\Git\CodeWars\6 kyu\Split Strings\Split Strings\obj\Debug\net8.0\Split Strings.genruntimeconfig.cache
+D:\Git\CodeWars\6 kyu\Split Strings\Split Strings\obj\Debug\net8.0\ref\Split Strings.dll

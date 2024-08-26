@@ -1,0 +1,15 @@
+D:\Git\CodeWars\6 kyu\Detect Pangram\Detect Pangram\bin\Debug\net8.0\Detect Pangram.exe
+D:\Git\CodeWars\6 kyu\Detect Pangram\Detect Pangram\bin\Debug\net8.0\Detect Pangram.deps.json
+D:\Git\CodeWars\6 kyu\Detect Pangram\Detect Pangram\bin\Debug\net8.0\Detect Pangram.runtimeconfig.json
+D:\Git\CodeWars\6 kyu\Detect Pangram\Detect Pangram\bin\Debug\net8.0\Detect Pangram.dll
+D:\Git\CodeWars\6 kyu\Detect Pangram\Detect Pangram\bin\Debug\net8.0\Detect Pangram.pdb
+D:\Git\CodeWars\6 kyu\Detect Pangram\Detect Pangram\obj\Debug\net8.0\Detect Pangram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\CodeWars\6 kyu\Detect Pangram\Detect Pangram\obj\Debug\net8.0\Detect Pangram.AssemblyInfoInputs.cache
+D:\Git\CodeWars\6 kyu\Detect Pangram\Detect Pangram\obj\Debug\net8.0\Detect Pangram.AssemblyInfo.cs
+D:\Git\CodeWars\6 kyu\Detect Pangram\Detect Pangram\obj\Debug\net8.0\Detect Pangram.csproj.CoreCompileInputs.cache
+D:\Git\CodeWars\6 kyu\Detect Pangram\Detect Pangram\obj\Debug\net8.0\Detect Pangram.sourcelink.json
+D:\Git\CodeWars\6 kyu\Detect Pangram\Detect Pangram\obj\Debug\net8.0\Detect Pangram.dll
+D:\Git\CodeWars\6 kyu\Detect Pangram\Detect Pangram\obj\Debug\net8.0\refint\Detect Pangram.dll
+D:\Git\CodeWars\6 kyu\Detect Pangram\Detect Pangram\obj\Debug\net8.0\Detect Pangram.pdb
+D:\Git\CodeWars\6 kyu\Detect Pangram\Detect Pangram\obj\Debug\net8.0\Detect Pangram.genruntimeconfig.cache
+D:\Git\CodeWars\6 kyu\Detect Pangram\Detect Pangram\obj\Debug\net8.0\ref\Detect Pangram.dll
